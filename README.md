@@ -2,7 +2,7 @@
 
 Second-year **Computer Science & AI** student at the University of Bristol (First Class in Year 1, graduating 2028). I build machine-learning products people actually use, mostly computer vision on mobile.
 
-- 🎾 **[RallyMax](https://github.com/JP14939/rallymax)**: AI tennis swing analysis. Pose estimation, YOLO ball/racket tracking, audio contact detection and DTW matching against ~650 pro swings. I built the ML pipeline.
+- 🎾 **[RallyMax](https://github.com/JP14939/rallymax)**: AI tennis swing analysis. Pose estimation, YOLO ball/racket tracking, audio contact detection and DTW matching against ~650 pro swings. I built it end to end.
 - ⚽ **Pitchwise** (part-time): React Native app for an AI sports camera mount that follows the ball. Real-time CV and the Android migration.
 - 🔍 **DataAnnotation**: reviewing AI-generated code to train LLMs.
 
